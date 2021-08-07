@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ashok Bhobhiya</h1>
-<h3 align="center">I'm always trying to learn new ideas related to Science.</h3>
+<h3 align="center">I'm always trying to learn new ideas related to Computer Science.</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akbhobhiya&color=blueviolet&style=flat">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Algorithms, Machine Learning, React.js, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Akbhobhiya?tab=repositories)
+- 👨‍💻 *SDE Intern* at **GEP Solutions**
 
 
 - 📫 How to reach me **akbhobhiya2000@gmail.com**
