@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Algorithms, Machine Learning, React.js, etc.**
 
-- 👨‍💻 *SDE Intern* at **GEP Solutions**
+- 👨‍💻 *Former SDE Intern* at **GEP Solutions**
 
 
 - 📫 How to reach me **akbhobhiya2000@gmail.com**
