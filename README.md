@@ -30,7 +30,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Akbhobhiya&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Algorithms, Machine Learning, React.js, etc.**
+- 🌱 I’m currently learning **Algorithms, Full Stack Web Development, Machine Learning, React.js, Angular etc.**
+
+
+- 👨‍💻 *SDE* at **GEP Solutions**
 
 - 👨‍💻 *Former SDE Intern* at **GEP Solutions**
 
